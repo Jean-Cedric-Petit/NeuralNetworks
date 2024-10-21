@@ -1,5 +1,6 @@
 # NeuralNetworks
 A project aimed to create, make and optimize code for NN.
 -CNN/DNN
+-RNN
 -BNN
--GPU optimization(?)
+-GPU optimization(CUDA/OpenCL/OpenML?)
